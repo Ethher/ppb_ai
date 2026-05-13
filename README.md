@@ -1,17 +1,5 @@
-# ppb_ai
+Hasil Screenshot:
 
-A new Flutter project.
+<img width="1080" height="2400" alt="WhatsApp Image 2026-05-13 at 08 26 44" src="https://github.com/user-attachments/assets/96eceb5a-459c-4037-a897-814cbd5b9e3b" />
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-13 at 08 26 44 (1)" src="https://github.com/user-attachments/assets/2591683c-c073-4863-851d-bdf64a77e36a" />
