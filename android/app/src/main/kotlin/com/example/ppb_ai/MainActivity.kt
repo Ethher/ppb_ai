@@ -1,0 +1,5 @@
+package com.example.ppb_ai
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
